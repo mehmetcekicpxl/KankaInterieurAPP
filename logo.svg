@@ -1,0 +1,36 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#263238" rx="40" ry="40"/>
+
+  <g transform="translate(400, 280)" text-anchor="middle">
+
+    <g transform="translate(0, -140)">
+      <path d="M0 -90 L78 -45 V45 L0 90 L-78 45 V-45 Z" 
+            fill="none" stroke="#FFD700" stroke-width="8" stroke-linejoin="round"/>
+      
+      <path d="M-40 30 V-30 L0 10 L40 -30 V30" 
+            fill="none" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+            
+      <circle cx="-40" cy="30" r="8" fill="#FFD700"/>
+      <circle cx="40" cy="30" r="8" fill="#FFD700"/>
+      <circle cx="0" cy="10" r="6" fill="#FFD700"/>
+    </g>
+
+    <text x="0" y="60" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="90" font-weight="900" fill="#FFD700" letter-spacing="8">
+      MDC
+    </text>
+
+    <text x="0" y="110" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="24" font-weight="bold" fill="white" letter-spacing="6">
+      SOFTWARE SOLUTIONS
+    </text>
+
+    <text x="0" y="150" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="18" font-style="italic" fill="#B0BEC5" letter-spacing="2">
+      Simplifying Complexity
+    </text>
+    
+    <line x1="-100" y1="180" x2="100" y2="180" stroke="#FFD700" stroke-width="3" opacity="0.6"/>
+
+  </g>
+</svg>

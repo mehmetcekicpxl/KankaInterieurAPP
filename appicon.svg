@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="512" height="512" rx="120" ry="120" fill="#263238"/>
+  
+  <g transform="translate(256, 256)">
+
+    <path d="M-120 -100 H80 C100 -100, 120 -80, 120 -60 V120 C120 140, 100 160, 80 160 H-120 C-140 160, -160 140, -160 120 V-60 C-160 -80, -140 -100, -120 -100 Z"
+          fill="none" stroke="white" stroke-width="20" stroke-linejoin="round"/>
+    <circle cx="-100" cy="-40" r="25" fill="white"/>
+
+    <g transform="translate(0, 20)">
+      <path d="M-80 0 H40 L160 100 L200 60" 
+            fill="none" stroke="#FFD700" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+      
+      <line x1="-40" y1="-12" x2="-40" y2="12" stroke="#263238" stroke-width="6"/>
+      <line x1="0" y1="-12" x2="0" y2="12" stroke="#263238" stroke-width="6"/>
+      <line x1="40" y1="-12" x2="40" y2="12" stroke="#263238" stroke-width="6"/>
+      
+      <path d="M140 120 L200 60 L240 100" 
+            fill="none" stroke="#FFD700" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <text x="-100" y="120" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#FFD700" letter-spacing="2">FQ</text>
+
+  </g>
+</svg>

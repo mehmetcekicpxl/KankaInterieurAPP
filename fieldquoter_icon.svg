@@ -1,0 +1,33 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="512" height="512" rx="120" ry="120" fill="#263238"/>
+  
+  <g transform="translate(256, 280)">
+
+    <g transform="translate(0, 20)">
+        <path d="M-70 -60 H70 V120 H-70 Z" 
+              fill="white" opacity="0.9"/>
+        <line x1="-40" y1="-20" x2="40" y2="-20" stroke="#263238" stroke-width="8" stroke-linecap="round"/>
+        <line x1="-40" y1="10" x2="40" y2="10" stroke="#263238" stroke-width="8" stroke-linecap="round"/>
+        <line x1="-40" y1="40" x2="10" y2="40" stroke="#263238" stroke-width="8" stroke-linecap="round"/>
+        
+        <circle cx="40" cy="80" r="15" fill="#FFD700"/>
+    </g>
+
+    <path d="M-110 0 V160 H110 V0" 
+          fill="none" stroke="white" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g transform="translate(0, -20)">
+        <path d="M-130 20 L0 -110 L130 20" 
+              fill="none" stroke="#FFD700" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+        
+        <line x1="-90" y1="-20" x2="-80" y2="-10" stroke="#FFD700" stroke-width="6"/>
+        <line x1="-60" y1="-50" x2="-50" y2="-40" stroke="#FFD700" stroke-width="6"/>
+        <line x1="-30" y1="-80" x2="-20" y2="-70" stroke="#FFD700" stroke-width="6"/>
+        
+        <line x1="90" y1="-20" x2="80" y2="-10" stroke="#FFD700" stroke-width="6"/>
+        <line x1="60" y1="-50" x2="50" y2="-40" stroke="#FFD700" stroke-width="6"/>
+        <line x1="30" y1="-80" x2="20" y2="-70" stroke="#FFD700" stroke-width="6"/>
+    </g>
+
+  </g>
+</svg>
