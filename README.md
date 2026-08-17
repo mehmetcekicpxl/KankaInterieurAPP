@@ -13,7 +13,7 @@ Deze repository bevat de broncode en bijbehorende documentatie voor het **Kanka 
 - **Android / Mobile Development**
 
 ## Screenshots
-*(Voeg later screenshots toe in de screenshots map en link ze hier)*
+*https://github.com/mehmetcekicpxl/KankaInterieurAPP/tree/master/screenshots*
 
 `html
 <!-- Voorbeeld van hoe je een screenshot toevoegt: -->
