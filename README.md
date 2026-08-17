@@ -4,15 +4,15 @@
 
 Deze repository bevat de broncode en bijbehorende documentatie voor het **Kanka Interieur App** project. Dit project is ontwikkeld met een focus op gebruiksvriendelijkheid, schaalbaarheid en schone code.
 
-## âœ¨ Functionaliteiten
+## Functionaliteiten
 - Ondersteuning voor complexe meubelmontage berekeningen
 - Offerte generatie voor specifieke interieurprojecten
 - Inclusief alle benodigde installatiebestanden (.apk) en visuele assets
 
-## ðŸ› ï¸ Gebruikte TechnologieÃ«n
+## Gebruikte Technologieën
 - **Android / Mobile Development**
 
-## ðŸ“¸ Screenshots
+## Screenshots
 *(Voeg later screenshots toe in de screenshots map en link ze hier)*
 
 `html
@@ -20,7 +20,7 @@ Deze repository bevat de broncode en bijbehorende documentatie voor het **Kanka 
 <!-- <img src="./screenshots/app_home.png" alt="Home Screen" width="300"/> -->
 `
 
-## ðŸš€ Installatie & Gebruik
+## Installatie & Gebruik
 Gebruik het meegeleverde .apk bestand of open de broncode (indien aanwezig) in de respectievelijke IDE.
 
 ---
